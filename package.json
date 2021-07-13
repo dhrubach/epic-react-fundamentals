@@ -2,7 +2,7 @@
 	"name": "react-fundamentals",
 	"title": "React Fundamentals ⚛",
 	"description": "The material for learning React fundamentals",
-	"author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",
+	"author": "Dhruba Chatterjee",
 	"version": "1.0.0",
 	"private": true,
 	"keywords": [],
@@ -76,10 +76,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kentcdodds/react-fundamentals.git"
-	},
-	"bugs": {
-		"url": "https://github.com/kentcdodds/react-fundamentals/issues"
+		"url": "git+https://github.com/dhrubach/react-fundamentals.git"
 	},
 	"msw": {
 		"workerDirectory": "public"
